@@ -5,11 +5,11 @@
     "Password": "",
     "HostingPackage": "Business Hosting Standard",
     "ServerIP": "82.163.176.117",
-    "NameServer1": "ns1097.ifastnet.com",
-    "NameServer2": "ns2097.ifastnet.com",
+    "NameServer1": "ns1.ifastnet.com",
+    "NameServer2": "ns2.ifastnet.com",
     "FTPHostName": "sv97.ifastnet.com",
     "WebPageURL": "https://www.pluralis.com.mx",
-    "ControlPanel": "https://sv97.ifastnet.com:2083"
+    "ControlPanel": "https://ifastnet.com"
   },
   {
     "Domain": "test.com",
