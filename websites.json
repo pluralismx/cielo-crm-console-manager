@@ -1,0 +1,26 @@
+[
+  {
+    "Domain": "pluralis.com.mx",
+    "Username": "pluralis",
+    "Password": "MW4c9h]y(7u3RQ",
+    "HostingPackage": "Business Hosting Standard",
+    "ServerIP": "82.163.176.117",
+    "NameServer1": "ns1097.ifastnet.com",
+    "NameServer2": "ns2097.ifastnet.com",
+    "FTPHostName": "sv97.ifastnet.com",
+    "WebPageURL": "https://www.pluralis.com.mx",
+    "ControlPanel": "https://sv97.ifastnet.com:2083"
+  },
+  {
+    "Domain": "test.com",
+    "Username": "test",
+    "Password": "1234",
+    "HostingPackage": "Premium Hosting",
+    "ServerIP": "82.1.1.1",
+    "NameServer1": "ns1.ifastnet.com",
+    "NameServer2": "ns2.ifastnet.com",
+    "FTPHostName": "sv98.ifastnet.com",
+    "WebPageURL": "https://www.test.com",
+    "ControlPanel": "https://sv98.ifastnet.com:2083"
+  }
+]

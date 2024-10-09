@@ -1,0 +1,17 @@
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/bin/Debug/net7.0/PhoneBook
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/bin/Debug/net7.0/PhoneBook.deps.json
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/bin/Debug/net7.0/PhoneBook.runtimeconfig.json
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/bin/Debug/net7.0/PhoneBook.dll
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/bin/Debug/net7.0/PhoneBook.pdb
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.csproj.AssemblyReference.cache
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.AssemblyInfoInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.AssemblyInfo.cs
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.dll
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/refint/PhoneBook.dll
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.pdb
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.genruntimeconfig.cache
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/ref/PhoneBook.dll
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Applications/XAMPP/xamppfiles/htdocs/csharp-app/PhoneBook/obj/Debug/net7.0/PhoneBook.csproj.CopyComplete
